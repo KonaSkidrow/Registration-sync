@@ -1,9 +1,10 @@
 <script.crm.bot.login>admin</script.crm.bot.login>
 <script.crm.bot.pass>0000</script.crm.bot.pass>
 
-
-
-
+<script.crm.bot.upd> 00000000000 </script.crm.bot.upd>
+<script.crm.bot.block> 00000000000 </script.crm.bot.block>
+<script.crm.bot.block.id> 00000000000 </script.crm.bot.block.id>
+<script.crm.bot.tetris> 00000000000 </script.crm.bot.tetris>
 
 
 
