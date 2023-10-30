@@ -6,6 +6,7 @@
 <script.crm.bot.block.id> 00000000000 </script.crm.bot.block.id>
 <script.crm.bot.tetris> 00000000000 </script.crm.bot.tetris>
 
+<--manager folder-->
 <panel.manager.folder.login>admin</panel.manager.folder.login>
 <panel.manager.folder.pass>pass</panel.manager.folder.pass>
 
