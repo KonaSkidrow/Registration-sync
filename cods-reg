@@ -10,10 +10,4 @@
 <panel.manager.folder.login>admin</panel.manager.folder.login>
 <panel.manager.folder.pass>pass</panel.manager.folder.pass>
 
-<--manager folder. faq-->
-<panel.manager.folder.faq>
-Temporary registration:   
-  
-Login: admin   
-Password: pass 
-</panel.manager.folder.faq>
+<--manager folder. faq--><panel.manager.folder.faq> Temporary registration: Login: "admin" Password: "pass"</panel.manager.folder.faq>
