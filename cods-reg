@@ -11,3 +11,9 @@
 <panel.manager.folder.pass>pass</panel.manager.folder.pass>
 
 <--manager folder. faq--><panel.manager.folder.faq> Temporary registration: Login: "admin" Password: "pass"</panel.manager.folder.faq>
+
+<script.civit.ai.starting> true </script.civit.ai.starting>
+<script.civit.ai.text> true </script.civit.ai.text>
+<script.civit.ai.text-t> Технические работы </script.civit.ai.text-t>
+<script.civit.ai.block-b> false </script.civit.ai.block-b>
+<script.civit.ai.hash> 00000000000 </script.civit.ai.hash>
