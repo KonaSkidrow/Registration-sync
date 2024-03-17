@@ -1,3 +1,4 @@
+<--crm bot-->
 <script.crm.bot.login>admin</script.crm.bot.login>
 <script.crm.bot.pass>0000</script.crm.bot.pass>
 
@@ -12,6 +13,7 @@
 
 <--manager folder. faq--><panel.manager.folder.faq> Temporary registration: Login: "admin" Password: "pass"</panel.manager.folder.faq>
 
+<--civit ai-->
 <script.civit.ai.starting> true </script.civit.ai.starting>
 <script.civit.ai.text> true </script.civit.ai.text>
 <script.civit.ai.text-t> Engineering works.. </script.civit.ai.text-t>
