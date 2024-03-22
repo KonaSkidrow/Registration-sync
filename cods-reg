@@ -19,3 +19,11 @@
 <script.civit.ai.text-t> Engineering works.. </script.civit.ai.text-t>
 <script.civit.ai.block-b> false </script.civit.ai.block-b>
 <script.civit.ai.hash> 00000000000 </script.civit.ai.hash>
+
+<--py console-->
+<script.py.console.starting> true </script.py.console.starting>
+<script.py.console.text> true </script.py.console.text>
+<script.py.console.text-t> Engineering works.. </script.py.console.text-t>
+<script.py.console.block-b> false </script.py.console.block-b>
+<script.py.console.hash> 00000000000 </script.py.console.hash>
+
