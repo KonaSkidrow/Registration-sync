@@ -7,6 +7,11 @@
 <script.crm.bot.block.id> 00000000000 </script.crm.bot.block.id>
 <script.crm.bot.tetris> 00000000000 </script.crm.bot.tetris>
 
+<--neo nightly bot-->
+<script.neo.nightly.login>admin</script.neo.nightly.login>
+<script.neo.nightly.pass>0000</script.neo.nightly.pass>
+
+
 <--manager folder-->
 <panel.manager.folder.login>admin</panel.manager.folder.login>
 <panel.manager.folder.pass>pass</panel.manager.folder.pass>
