@@ -32,3 +32,10 @@
 <script.py.console.block-b> false </script.py.console.block-b>
 <script.py.console.hash> 00000000000 </script.py.console.hash>
 
+<--guard console-->
+<script.guard.console.starting> true </script.guard.console.starting>
+<script.guard.console.text> false </script.guard.console.text>
+<script.guard.console.text-t> Engineering works.. </script.guard.console.text-t>
+<script.guard.console.block-b> false </script.guard.console.block-b>
+<script.guard.console.hash> 00000000000 </script.guard.console.hash>
+
